@@ -1,0 +1,5 @@
+username,password,expected_result
+validuser1,validpassword1,success
+validuser2,validpassword2,success
+invaliduser1,invalidpassword1,failure
+invaliduser2,invalidpassword2,failure
